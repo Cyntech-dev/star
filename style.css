@@ -1,0 +1,98 @@
+.button .form-control{
+    border-radius: 50%;
+    width: 100px;
+    text-align: center;
+    }
+
+    .button .btn{
+        border-radius: 50%;
+        width: 100px;
+        text-align: center;
+    }
+
+    .hero{
+        background-color: #185519;
+        color: white;
+    
+    }
+
+    
+
+    .fa-shield-halved{
+        margin-right: 20px !important;
+        margin-left: 20px !important;
+    }
+
+    .love{
+background: url(https://images.pexels.com/photos/2908684/pexels-photo-2908684.jpeg?auto=compress&cs=tinysrgb&w=600);
+background-size: cover;
+min-height: 100vh;
+color: black;
+
+ }
+
+ .love .para{
+font-size: 2rem;
+margin-top: 180px;
+font-weight: bolder;
+margin-left: 50px;
+ }
+
+ .love .page{
+    margin-left: 50px;
+ }
+
+ .love .me{
+    margin-left: 50px;
+ }
+
+ .love .and{
+    margin-left: 50px;
+ }
+
+ .main{
+    margin: 50px;
+ }
+
+ .max{
+margin: 40px !important;
+font-family: Arial, Helvetica, sans-serif;
+
+ }
+
+ .max .pom{
+    margin: 20px !important;
+    font-weight: bold;
+ }
+
+ .max .pin{
+    margin-right:50px ;
+ }
+ .max .pin a{
+    color: green;
+ }
+
+ .mad{
+    background-color: #EEEEEE;
+    
+ }
+
+ .about{
+    width: 100%;
+    height: auto;
+ }
+ .tea{
+   background-color: #EEEEEE;
+}
+
+.more{
+   background-color: #E4E0E1;
+}
+
+.big{
+   background-color:#D4BEE4 ;
+}
+
+
+
+ 
