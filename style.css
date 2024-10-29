@@ -50,7 +50,7 @@
 
 /* Max Section */
 .max {
-    margin: 40px !important; /* Consider removing !important if not necessary */
+    /* margin: 40px !important; Consider removing !important if not necessary */
     font-family: Arial, Helvetica, sans-serif;
 }
 
